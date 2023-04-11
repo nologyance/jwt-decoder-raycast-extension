@@ -3,7 +3,7 @@
   "name": "jwtdecoder",
   "title": "JWTDecoder",
   "description": "Decode JWT token",
-  "icon": "command-icon.png",
+  "icon": "eextension_icon.png",
   "author": "nologyance",
   "license": "MIT",
   "commands": [
